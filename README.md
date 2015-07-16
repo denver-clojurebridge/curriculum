@@ -1,6 +1,8 @@
 ClojureBridge Curriculum
 ========================
 
+[![Join the chat at https://gitter.im/denver-clojurebridge/curriculum](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/denver-clojurebridge/curriculum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Please look at [README.md](https://github.com/ClojureBridge/curriculum/blob/gh-pages/README.md).
 
 All files have been moved to gh-pages branch.
