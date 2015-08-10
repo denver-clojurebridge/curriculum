@@ -1,17 +1,15 @@
 ClojureBridge Curriculum
 ========================
 
-Please look at [README.md](https://github.com/ClojureBridge/curriculum/blob/gh-pages/README.md).
-
-All files have been moved to gh-pages branch.
-Switch the branch to [gh-pages](https://github.com/ClojureBridge/curriculum/tree/gh-pages).
+All files are in the gh-pages branch.
+Switch the branch to [gh-pages](https://github.com/denver-clojurebridge/curriculum/tree/gh-pages).
 
 Temporarily, files are saved in `backup` directory for a reference.
 Those will be deleted at some point.
 Don't make changes on files under backup directory.
 
 Read
-[CONTRIBUTING.md](https://github.com/ClojureBridge/curriculum/blob/gh-pages/CONTRIBUTING.md)
+[CONTRIBUTING.md](https://github.com/denver-clojurebridge/curriculum/blob/gh-pages/CONTRIBUTING.md)
 before making changes.
 
 
