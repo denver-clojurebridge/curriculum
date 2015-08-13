@@ -199,7 +199,7 @@ Introduction to Programming with Clojure
 
 **R**ead, **E**val, **P**rint, **L**oop
 
-![Instarepl](img/repl.png)
+![REPL](img/repl.png)
 
 </section>
 
@@ -217,12 +217,9 @@ Introduction to Programming with Clojure
 
 #### Try it out <button class="link" ng-model="block63" ng-click="block63=!block63">Details</button>
 
-> Let's try out the REPL together! Type `(+ 2 3)`
-> and see what happens. Did you see the result appearing beside what
-> you were typing? Once you've done that, hit enter and type `(max 8
-> 17 2)`. You might see an error in red while typing. This happens
-> because Light Table is continually evaluating what you are typing,
-> and before you finish, the code might not be valid.
+> Let's try out the REPL together! Type `(+ 2 3)` and hit enter
+> Do you see the result appearing below? Once you've done that,
+> type `(max 8 17 2)` and hit enter.
 {: ng-show="block63" .description}
 </section>
 
@@ -420,7 +417,7 @@ false
 
 #### <button class="link" ng-model="block171" ng-click="block171=!block171">Details</button>
 
-> Type the following into your instarepl.
+> Type the following into your REPL.
 > When you assign a name to a value, that name is called a _symbol_.
 {: ng-show="block171" .description}
 
