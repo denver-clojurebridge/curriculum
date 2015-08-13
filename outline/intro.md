@@ -210,7 +210,7 @@ Introduction to Programming with Clojure
 #### Nightcode's REPL <button class="link" ng-model="block61" ng-click="block61=!block61">Details</button>
 
 > Clojure has a REPL that you can run from the terminal easily, and
-> we'll talk more about that later, but for now, let's use Nightcode's
+> we'll talk more about that later. For now, let's use Nightcode's
 > REPL in the bottom left corner, it's a nice way to interact with Clojure
 > from within Nightcode.
 {: ng-show="block61" .description}
