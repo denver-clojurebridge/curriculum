@@ -199,7 +199,7 @@ Introduction to Programming with Clojure
 
 **R**ead, **E**val, **P**rint, **L**oop
 
-![Instarepl](img/instarepl.png)
+![Instarepl](img/repl.png)
 
 </section>
 
@@ -207,33 +207,17 @@ Introduction to Programming with Clojure
 ## REPL in action
 {: .slide_title .slide}
 
-#### Light Table's "insta-REPL" <button class="link" ng-model="block61" ng-click="block61=!block61">Details</button>
+#### Nightcode's REPL <button class="link" ng-model="block61" ng-click="block61=!block61">Details</button>
 
 > Clojure has a REPL that you can run from the terminal easily, and
-> we'll talk more about that later, but for now, let's use Light
-> Table's "insta-REPL," a nice way to interact with Clojure from
-> within Light Table.
+> we'll talk more about that later, but for now, let's use Nightcode's
+> REPL in the bottom left corner, it's a nice way to interact with Clojure
+> from within Nightcode.
 {: ng-show="block61" .description}
-
-
-#### Start REPL <button class="link" ng-model="block62" ng-click="block62=!block62">Details</button>
-
-> Go ahead and start Light Table, if you haven't already. Once it's
-> started, go to the "View" menu and click "Commands." Notice that you
-> can get to the command by typing ctrl+space from now on, if that's
-> faster for you. Type "insta" and press enter when the "Instarepl:
-> Open a Clojure instarepl" choice is highlighted.
-{: ng-show="block62" .description}
-
-> After you hit enter, a blank new page will open. At the bottom of
-> Light Table, you should see a message about "connecting" or
-> "retrieving deps." Wait for the instarepl to finish connecting
-> before typing anything.
-{: ng-show="block62" .description}
 
 #### Try it out <button class="link" ng-model="block63" ng-click="block63=!block63">Details</button>
 
-> Once that's done, let's try out the REPL together! Type `(+ 2 3)`
+> Let's try out the REPL together! Type `(+ 2 3)`
 > and see what happens. Did you see the result appearing beside what
 > you were typing? Once you've done that, hit enter and type `(max 8
 > 17 2)`. You might see an error in red while typing. This happens
