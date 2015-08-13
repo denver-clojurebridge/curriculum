@@ -217,7 +217,7 @@ Introduction to Programming with Clojure
 
 #### Try it out <button class="link" ng-model="block63" ng-click="block63=!block63">Details</button>
 
-> Let's try out the REPL together! Type `(+ 2 3)` and hit enter
+> Let's try out the REPL together! Type `(+ 2 3)` and hit enter.
 > Do you see the result appearing below? Once you've done that,
 > type `(max 8 17 2)` and hit enter.
 {: ng-show="block63" .description}
